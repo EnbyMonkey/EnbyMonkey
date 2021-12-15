@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @EnbyMonkey
 - 👀 I’m interested in getting a programming job, game mods (Stardew Valley at the moment), the cool (and annoying) features of C++.
 - 🌱 I’m currently learning C++, C#, OOP,  modding.
-- 💞️ I’m looking to collaborate on figuring out how to mod Stardew Valley on the Switch (some ppl have mentioned it's possible)
 - 📫 How to reach me: EnbyMonkey@gmail.com
 
 <!---
